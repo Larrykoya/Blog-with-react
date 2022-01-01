@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog Post",
+      "body": "lorem ipsum xyz1",
+      "author": "First Author",
+      "id": 1
+    },
+    {
+      "title": "Second Blog Post",
+      "body": "lorem ipsum xyz2",
+      "author": "Second Author",
+      "id": 2
+    },
+    {
+      "title": "reader's joy",
+      "body": "welcome",
+      "author": "First Author",
+      "id": 3
+    }
+  ]
+}
